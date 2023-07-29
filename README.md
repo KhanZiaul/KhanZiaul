@@ -1,3 +1,4 @@
+![logo](https://github.com/KhanZiaul/KhanZiaul/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Khan Ziaul Hasan</h1>
 <h3 align="center"> Junior Web Developer || Junior Front-End Developer || Junior MERN Stack Developer </h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
