@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khan Ziaul Hasan</h1>
-<h3 align="center">Junior MERN Stack Developer || Front-End Developer || Web Developer || Junior Web Developer</h3>
+<h3 align="center">Junior MERN Stack Developer || Front-End Developer || Junior Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanziaul&label=Profile%20views&color=0e75b6&style=flat" alt="khanziaul" /> </p>
